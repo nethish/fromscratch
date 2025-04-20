@@ -1,4 +1,4 @@
-module github.com/nethish/http2-from-scratch
+module github.com/nethish/fromscratch/http2
 
 go 1.24.0
 
